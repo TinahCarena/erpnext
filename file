@@ -1,0 +1,11 @@
+Creation projet springboot 
+curl https://start.spring.io/starter.zip \
+-d dependencies=web \
+-d type=maven-project \
+-d language=java \
+-d packaging=jar \
+-d javaVersion=17 \
+-d name=erpApp \
+-d groupId=com.eval \
+-d artifactId=erp \
+-o erpApp.zip 

@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2025-04-25 13:57:56.151524",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2025-04-25 13:57:56.151524",
+ "modified_by": "Administrator",
+ "module": "ProduitModule",
+ "name": "produit_detail",
+ "owner": "Administrator",
+ "page_name": "produit_detail",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "produits"
+}

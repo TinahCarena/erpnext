@@ -74,7 +74,6 @@ It takes care of installation, setup, upgrades, monitoring, maintenance and supp
 </div>
 
 
-
 ### Self-Hosted
 #### Docker
 
